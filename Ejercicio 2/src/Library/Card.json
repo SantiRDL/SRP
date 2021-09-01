@@ -1,0 +1,19 @@
+[
+    {
+      "name": "AppointmentService",
+      "superclasses": "",
+      "subclasses": "",
+      "type": 1,
+      "responsibilities": [
+        "name ",
+        "id",
+        "phoneNumber",
+        "date",
+        "appoinmentPlace",
+        "doctorName"
+      ],
+      "collaborators": [
+        ""
+      ]
+    }
+  ]

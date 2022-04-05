@@ -43,7 +43,7 @@ namespace Library
 
             if (isValid)
             {
-                stringBuilder.Append("Appoinment Scheduled");
+                stringBuilder.Append("Appointment Scheduled");
             }
 
             return stringBuilder.ToString();
